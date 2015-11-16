@@ -18,7 +18,9 @@ end
 
 group :test do
   gem 'capybara', '~> 2.1.0'
+  gem 'shoulda-matchers', '2.0.4'
 end
+
 group :development do
   gem 'web-console', '~> 2.0'
   gem 'spring'
