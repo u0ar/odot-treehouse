@@ -50,5 +50,7 @@ describe "Creating todo lists" do
   end
 
 
+## TODO: do the same tests for description
+
 
 end
